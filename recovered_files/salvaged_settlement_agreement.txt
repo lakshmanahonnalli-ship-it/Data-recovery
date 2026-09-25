@@ -1,0 +1,9 @@
+CONFIDENTIAL ASSET DISBURSEMENT & SETTLEMENT AGREEMENT
+Parties: CyberVanguard AI Security and Quantum Nexus Ltd
+Disbursement Amount: $3,450,000.00 USD
+Escrow Destination Account: 0x742d35Cc6634C0532925a3b844Bc454e4438f44e
+Compliance Contact: compliance-wire@quantum-nexus.global
+Security Authorization Hash: SHA256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Authorized Signature: Marcus Vance, CFO
+
+[...UNREADABLE CORRUPTED SECTOR SKIPPED...]

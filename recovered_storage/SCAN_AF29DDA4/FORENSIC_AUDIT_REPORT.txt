@@ -1,0 +1,21 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_AF29DDA4
+Source File: L.pdf
+Timestamp: 2026-09-26 00:01:37 UTC
+Original Size: 61.3 KB (62791 bytes)
+Salvaged Data: 61.3 KB (100.0%)
+Damaged / Corrupted Sectors: 10.4 KB (17.0%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 83.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE (GEMINI VERIFIED):
+----------------------------------------------------------------------
+[01] salvaged_L.pdf | Fidelity: 83.0% | Type: application/pdf
+     Gemini Status: VERIFIED_INTACT (94.5% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_L.pdf'. Payload (62791 bytes) is structurally sound (94.5% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: PHONE: 2 750 750 1027, PHONE: 2 734 734 1006, PHONE: 2026072115282
+     Integrity: RECOVERABLE

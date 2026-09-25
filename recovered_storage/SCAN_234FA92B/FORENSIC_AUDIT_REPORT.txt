@@ -1,0 +1,21 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_234FA92B
+Source File: merged pdf.pdf
+Timestamp: 2026-09-26 00:01:11 UTC
+Original Size: 553.0 KB (566317 bytes)
+Salvaged Data: 1.66 MB (100.0%)
+Damaged / Corrupted Sectors: 171.4 KB (31.0%)
+Zero Slack Space: 512 B
+Average Recoverability Fidelity: 69.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE (GEMINI VERIFIED):
+----------------------------------------------------------------------
+[01] salvaged_merged pdf.pdf | Fidelity: 69.0% | Type: image/bmp
+     Gemini Status: VERIFIED_INTACT (92.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_merged pdf.pdf'. Payload (1743420 bytes) is structurally sound (92.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: PHONE: 2222222222222, PHONE: 22222222222, PHONE: 695 695 1000
+     Integrity: RECOVERABLE

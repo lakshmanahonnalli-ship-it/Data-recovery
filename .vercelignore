@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.vscode/
+venv/
+.venv/
+recovered_storage/
+recovered_files/
+*.dd
+*.raw
+*.img

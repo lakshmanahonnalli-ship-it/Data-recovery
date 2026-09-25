@@ -1,0 +1,17 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_FA70F269
+Source File: dij.c
+Timestamp: 2026-09-25 19:54:18 UTC
+Original Size: 1.2 KB (1200 bytes)
+Salvaged Data: 1.0 KB (87.8%)
+Damaged / Corrupted Sectors: 96 B (8.0%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 92.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE:
+----------------------------------------------------------------------
+[01] salvaged_dij.c | Fidelity: 92.0% | Type: text/x-source-code
+     Status: INTACT

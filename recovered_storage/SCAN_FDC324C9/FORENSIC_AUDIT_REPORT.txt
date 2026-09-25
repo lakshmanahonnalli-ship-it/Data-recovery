@@ -1,0 +1,21 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_FDC324C9
+Source File: BBOC407  June -july 2025.pdf
+Timestamp: 2026-09-26 02:41:10 UTC
+Original Size: 973.7 KB (997025 bytes)
+Salvaged Data: 973.7 KB (100.0%)
+Damaged / Corrupted Sectors: 165.5 KB (17.0%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 83.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE (GEMINI VERIFIED):
+----------------------------------------------------------------------
+[01] salvaged_BBOC407  June -july 2025.pdf | Fidelity: 83.0% | Type: application/pdf
+     Gemini Status: VERIFIED_INTACT (94.5% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_BBOC407  June -july 2025.pdf'. Payload (997025 bytes) is structurally sound (94.5% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: EMAIL: 1@wnwr.ky, EMAIL: c@e.gffeU, PHONE: 2025080711570
+     Integrity: RECOVERABLE

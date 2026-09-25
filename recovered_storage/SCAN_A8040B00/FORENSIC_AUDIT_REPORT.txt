@@ -1,0 +1,54 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_A8040B00
+Source File: simulated_mixed_forensic_drive.dd
+Timestamp: 2026-09-25 23:25:07 UTC
+Original Size: 32.0 KB (32768 bytes)
+Salvaged Data: 12.6 KB (39.4%)
+Damaged / Corrupted Sectors: 507 B (1.5%)
+Zero Slack Space: 24.0 KB
+Average Recoverability Fidelity: 93.0%
+Total Salvaged Artifacts: 6
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE (GEMINI VERIFIED):
+----------------------------------------------------------------------
+[01] salvaged_auth_service_part1.py | Fidelity: 92.0% | Type: text/x-source-code
+     Gemini Status: VERIFIED_INTACT (96.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_auth_service_part1.py'. Payload (566 bytes) is structurally sound (96.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: DB_TABLE: typing
+     Integrity: INTACT
+
+[02] salvaged_cloud_credentials.py | Fidelity: 92.0% | Type: text/x-source-code
+     Gemini Status: VERIFIED_INTACT (96.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_cloud_credentials.py'. Payload (454 bytes) is structurally sound (96.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: API_KEY: AKIAIOSFODNN7EXAMPLE, API_KEY: ghp_49c30f78d389a421b9204018241ef49201ab, EMAIL: security-ops@acmecorp-forensics.io
+     Integrity: INTACT
+
+[03] salvaged_security_audit.log | Fidelity: 90.0% | Type: text/x-log
+     Gemini Status: VERIFIED_INTACT (94.5% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_security_audit.log'. Payload (601 bytes) is structurally sound (94.5% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: EMAIL: legal-compliance@apexholdings.org, PHONE: 1391655767, MONETARY_AMOUNT: $1,450,000.00
+     Integrity: INTACT
+
+[04] salvaged_code_sector_0018.py | Fidelity: 92.0% | Type: text/x-source-code
+     Gemini Status: VERIFIED_INTACT (96.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_code_sector_0018.py'. Payload (560 bytes) is structurally sound (96.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: EMAIL: sysadmin@acmecorp-forensics.io, IP_ADDRESS: 198.51.100.42, TIMESTAMP: 2026-03-14 02:11:45
+     Integrity: INTACT
+
+[05] salvaged_evidence_photo.jpg | Fidelity: 92.0% | Type: image/jpeg
+     Gemini Status: VERIFIED_INTACT (92.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_evidence_photo.jpg'. Payload (2539 bytes) is structurally sound (92.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Integrity: INTACT
+
+[06] salvaged_transactions.sqlite | Fidelity: 100.0% | Type: application/x-sqlite3
+     Gemini Status: VERIFIED_INTACT (92.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_transactions.sqlite'. Payload (8192 bytes) is structurally sound (92.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Integrity: INTACT

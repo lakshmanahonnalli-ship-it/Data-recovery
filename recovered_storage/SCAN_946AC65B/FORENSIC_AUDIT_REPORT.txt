@@ -1,0 +1,22 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_946AC65B
+Source File: Lakshmu.pdf
+Timestamp: 2026-09-25 23:28:25 UTC
+Original Size: 29.8 KB (30511 bytes)
+Salvaged Data: 29.8 KB (100.0%)
+Damaged / Corrupted Sectors: 5.1 KB (17.0%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 83.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE (GEMINI VERIFIED):
+----------------------------------------------------------------------
+[01] salvaged_Lakshmu.pdf | Fidelity: 83.0% | Type: application/pdf
+     Gemini Status: VERIFIED_INTACT (94.5% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_Lakshmu.pdf'. Payload (30511 bytes) is structurally sound (94.5% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: PHONE: 2 750 750 1027, PHONE: 2026072115180, PHONE: 17
+0000000000
+     Integrity: RECOVERABLE

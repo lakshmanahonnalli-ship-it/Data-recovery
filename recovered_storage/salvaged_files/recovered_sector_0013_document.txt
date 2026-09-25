@@ -1,0 +1,9 @@
+
+[...UNREADABLE CORRUPTED SECTOR SKIPPED...]
+CONFIDENTIAL SETTLEMEN[LOCKED_BY_AEGIS_RANSOM_SAMPLE_0xDEADBEEF]rties: Apex Holdings LLC and CyberVanguard Solutions
+
+1. Escrow Release: The escrow agent is hereby instructed to disburse the sum of
+   $1,450,000.00 USD directly to account 0x71C8364437a9b1391655767b4582e0C1a086b978.
+2. Notice Address: All legal notices shall be sent to counsel at legal-compliance@apexholdings.org.
+3. Governing Jurisdiction: This agreement is executed under maritime commercial statutes.
+Authorized Signature: Marcus Vance, Chief Financial Officer.

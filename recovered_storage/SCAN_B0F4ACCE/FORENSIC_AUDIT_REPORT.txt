@@ -1,0 +1,21 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_B0F4ACCE
+Source File: LAXMANA FRONTPAGE.pdf
+Timestamp: 2026-09-26 00:43:07 UTC
+Original Size: 1.28 MB (1337011 bytes)
+Salvaged Data: 1.28 MB (100.0%)
+Damaged / Corrupted Sectors: 222.0 KB (17.0%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 83.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE (GEMINI VERIFIED):
+----------------------------------------------------------------------
+[01] salvaged_LAXMANA FRONTPAGE.pdf | Fidelity: 83.0% | Type: application/pdf
+     Gemini Status: VERIFIED_INTACT (94.5% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_LAXMANA FRONTPAGE.pdf'. Payload (1337011 bytes) is structurally sound (94.5% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: PHONE: 4472354666115, PHONE: 2026061705045, MONETARY_AMOUNT: $0
+     Integrity: RECOVERABLE

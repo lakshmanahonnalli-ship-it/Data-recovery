@@ -1,0 +1,17 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_E03494F9
+Source File: sensor_backup.dat
+Timestamp: 2026-09-25 19:19:53 UTC
+Original Size: 512 B (512 bytes)
+Salvaged Data: 3.1 KB (100.0%)
+Damaged / Corrupted Sectors: 102 B (19.9%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 80.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE:
+----------------------------------------------------------------------
+[01] recovered_sector_0000_unknown.bin | Fidelity: 80.0% | Type: application/octet-stream
+     Status: RECOVERABLE

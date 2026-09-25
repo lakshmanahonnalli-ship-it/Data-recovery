@@ -1,0 +1,17 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_C4CD99D2
+Source File: warshall.c
+Timestamp: 2026-09-25 19:46:22 UTC
+Original Size: 726 B (726 bytes)
+Salvaged Data: 619 B (85.3%)
+Damaged / Corrupted Sectors: 58 B (8.0%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 92.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE:
+----------------------------------------------------------------------
+[01] salvaged_warshall.c | Fidelity: 92.0% | Type: text/x-source-code
+     Status: INTACT

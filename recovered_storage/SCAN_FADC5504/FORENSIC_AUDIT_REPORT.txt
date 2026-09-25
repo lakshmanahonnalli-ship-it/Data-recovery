@@ -1,0 +1,17 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_FADC5504
+Source File: my_vacation.jpg
+Timestamp: 2026-09-25 19:19:53 UTC
+Original Size: 315 B (315 bytes)
+Salvaged Data: 399 B (100.0%)
+Damaged / Corrupted Sectors: 135 B (42.9%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 57.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE:
+----------------------------------------------------------------------
+[01] recovered_sector_0000_document.txt | Fidelity: 57.0% | Type: text/plain
+     Status: PARTIALLY_CORRUPTED

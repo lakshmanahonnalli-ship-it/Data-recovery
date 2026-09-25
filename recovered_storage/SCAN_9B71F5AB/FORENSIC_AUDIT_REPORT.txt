@@ -1,0 +1,17 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_9B71F5AB
+Source File: knap1.c
+Timestamp: 2026-09-25 21:47:58 UTC
+Original Size: 930 B (930 bytes)
+Salvaged Data: 786 B (84.5%)
+Damaged / Corrupted Sectors: 74 B (8.0%)
+Zero Slack Space: 0 B
+Average Recoverability Fidelity: 92.0%
+Total Salvaged Artifacts: 1
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE:
+----------------------------------------------------------------------
+[01] salvaged_knap1.c | Fidelity: 92.0% | Type: text/x-source-code
+     Status: INTACT

@@ -1,0 +1,36 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_8807D6D9
+Source File: sample_damaged_drive.dd
+Timestamp: 2026-09-25 19:35:55 UTC
+Original Size: 32.0 KB (32768 bytes)
+Salvaged Data: 5.8 KB (18.2%)
+Damaged / Corrupted Sectors: 1.7 KB (5.4%)
+Zero Slack Space: 25.5 KB
+Average Recoverability Fidelity: 75.0%
+Total Salvaged Artifacts: 6
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE:
+----------------------------------------------------------------------
+[01] recovered_sector_0004_source_code.py | Fidelity: 92.0% | Type: text/x-source-code
+     Entities: DB_TABLE: typing
+     Status: INTACT
+
+[02] recovered_sector_0011_source_code.py | Fidelity: 92.0% | Type: text/x-source-code
+     Entities: API_KEY: AKIAIOSFODNN7EXAMPLE, API_KEY: ghp_49c30f78d389a421b9204018241ef49201ab, EMAIL: security-ops@acmecorp-forensics.io
+     Status: INTACT
+
+[03] recovered_sector_0014_system_log.log | Fidelity: 90.0% | Type: text/x-log
+     Entities: EMAIL: legal-compliance@apexholdings.org, PHONE: 1391655767, MONETARY_AMOUNT: $1,450,000.00
+     Status: INTACT
+
+[04] recovered_sector_0019_database.sqlite | Fidelity: 68.0% | Type: application/x-sqlite3
+     Status: RECOVERABLE
+
+[05] recovered_sector_0022_image.jpg | Fidelity: 46.0% | Type: image/jpeg
+     Status: PARTIALLY_CORRUPTED
+
+[06] recovered_sector_0023_image.jpg | Fidelity: 62.0% | Type: image/jpeg
+     Entities: EMAIL: sysadmin@acmecorp-forensics.io, IP_ADDRESS: 198.51.100.42, TIMESTAMP: 2026-03-14 02:11:45
+     Status: PARTIALLY_CORRUPTED

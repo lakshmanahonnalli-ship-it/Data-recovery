@@ -1,0 +1,30 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_A0350475
+Source File: simulated_ransomware_wipe_drive.dd
+Timestamp: 2026-09-25 21:52:05 UTC
+Original Size: 31.9 KB (32680 bytes)
+Salvaged Data: 2.0 KB (6.4%)
+Damaged / Corrupted Sectors: 3.8 KB (11.8%)
+Zero Slack Space: 25.4 KB
+Average Recoverability Fidelity: 91.5%
+Total Salvaged Artifacts: 4
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE:
+----------------------------------------------------------------------
+[01] recovered_sector_0004_source_code.py | Fidelity: 92.0% | Type: text/x-source-code
+     Entities: DB_TABLE: typing
+     Status: INTACT
+
+[02] recovered_sector_0010_document.txt | Fidelity: 87.0% | Type: text/plain
+     Entities: API_KEY: AKIAIOSFODNN7EXAMPLE, API_KEY: ghp_49c30f78d389a421b9204018241ef49201ab, EMAIL: security-ops@acmecorp-forensics.io
+     Status: RECOVERABLE
+
+[03] recovered_sector_0013_document.txt | Fidelity: 95.0% | Type: text/plain
+     Entities: EMAIL: legal-compliance@apexholdings.org, PHONE: 1391655767, MONETARY_AMOUNT: $1,450,000.00
+     Status: INTACT
+
+[04] recovered_sector_0026_source_code.py | Fidelity: 92.0% | Type: text/x-source-code
+     Entities: EMAIL: sysadmin@acmecorp-forensics.io, IP_ADDRESS: 198.51.100.42, TIMESTAMP: 2026-03-14 02:14:15
+     Status: INTACT

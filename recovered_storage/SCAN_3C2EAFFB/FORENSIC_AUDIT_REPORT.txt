@@ -1,0 +1,53 @@
+======================================================================
+AEGISRECOVER AI - FORENSIC STORAGE SALVAGE & AUDIT REPORT
+======================================================================
+Scan ID: SCAN_3C2EAFFB
+Source File: corrupted_sample_disk.dd
+Timestamp: 2026-09-25 23:41:10 UTC
+Original Size: 16.0 KB (16359 bytes)
+Salvaged Data: 4.1 KB (25.7%)
+Damaged / Corrupted Sectors: 237 B (1.4%)
+Zero Slack Space: 11.0 KB
+Average Recoverability Fidelity: 92.2%
+Total Salvaged Artifacts: 6
+----------------------------------------------------------------------
+SAVED ARTIFACTS ON LOCAL DRIVE (GEMINI VERIFIED):
+----------------------------------------------------------------------
+[01] salvaged_document_sector_0000.txt | Fidelity: 87.0% | Type: text/plain
+     Gemini Status: VERIFIED_INTACT (94.5% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_document_sector_0000.txt'. Payload (128 bytes) is structurally sound (94.5% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Integrity: RECOVERABLE
+
+[02] salvaged_settlement_agreement.txt | Fidelity: 95.0% | Type: text/plain
+     Gemini Status: VERIFIED_INTACT (94.5% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_settlement_agreement.txt'. Payload (465 bytes) is structurally sound (94.5% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: EMAIL: compliance-wire@quantum-nexus.global, MONETARY_AMOUNT: $3,450,000.00, CRYPTO_ADDRESS: 0x742d35Cc6634C0532925a3b844Bc454e4438f44e
+     Integrity: INTACT
+
+[03] salvaged_document_sector_0005.txt | Fidelity: 87.0% | Type: text/plain
+     Gemini Status: VERIFIED_INTACT (94.5% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_document_sector_0005.txt'. Payload (210 bytes) is structurally sound (94.5% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Integrity: RECOVERABLE
+
+[04] salvaged_cloud_credentials.py | Fidelity: 92.0% | Type: text/x-source-code
+     Gemini Status: VERIFIED_INTACT (96.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_cloud_credentials.py'. Payload (443 bytes) is structurally sound (96.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: API_KEY: AKIA5TREXAMPLECLOUD8, EMAIL: security-incident@cybervanguard.corp
+     Integrity: INTACT
+
+[05] salvaged_code_sector_0012.py | Fidelity: 92.0% | Type: text/x-source-code
+     Gemini Status: VERIFIED_INTACT (96.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_code_sector_0012.py'. Payload (407 bytes) is structurally sound (96.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Entities: IP_ADDRESS: 203.0.113.89, TIMESTAMP: 2026-03-24 14:22:01, TIMESTAMP: 2026-03-24 14:22:15
+     Integrity: INTACT
+
+[06] salvaged_evidence_photo.jpg | Fidelity: 100.0% | Type: image/jpeg
+     Gemini Status: VERIFIED_INTACT (92.0% confidence)
+     Gemini Engine: Gemini Neural Forensic Engine (Local Verification)
+     Forensic Verdict: Gemini forensic verification confirmed for 'salvaged_evidence_photo.jpg'. Payload (2558 bytes) is structurally sound (92.0% confidence). Integrity status evaluated as VERIFIED_INTACT.
+     Integrity: INTACT
